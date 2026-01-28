@@ -12,3 +12,4 @@ Romane : Tensorflow
 Clément : GWalkR
 Adam : SparkApache
 Maxence : PyGWalker
+Elliott : Flask
