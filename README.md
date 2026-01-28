@@ -6,3 +6,4 @@ Mathilde : shiny
 Zoé : Redash
 Julien : Power Bi
 Ayden : Matlab
+Nathan : RapidMiner
