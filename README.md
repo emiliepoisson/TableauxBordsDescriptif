@@ -11,3 +11,4 @@ Léonie : carnets jupyter
 Romane : Tensorflow
 Clément : GWalkR
 Adam : SparkApache
+Maxence : PyGWalker
