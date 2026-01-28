@@ -1,21 +1,4 @@
 # TableauxBordsDescriptif
-description des outils de tableaux de bords.
-
-
-Mathilde : shiny
-Zoé : Redash
-Julien : Power Bi
-Ayden : Matlab
-Nathan : RapidMiner
-Léonie : carnets jupyter
-Romane : Tensorflow
-Clément : GWalkR
-Maxence : PyGWalker
-
-
-
-
-
 Shiny est un framework pour créer des app web directement en Python, sans écrire de HTML/CSS/JS.
 
 Un framework est :
