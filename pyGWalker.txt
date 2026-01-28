@@ -5,3 +5,7 @@ PyGWalker (prononcé comme "Pig Walker", juste pour le plaisir) est nommé en ta
 Graphic Walker". Il intègre Jupyter Notebook avec Graphic Walker, une alternative open-source à Tableau. 
 Cela permet aux data scientists de visualiser / nettoyer / annoter les données avec des opérations simples de glisser-déposer 
 et même des requêtes en langage naturel.
+
+Installer PyGWalker :
+    pip = pip install pygwalker runcell
+    Conda - forge = conda install -c conda-forge pygwalker OU mamba install -c conda-forge pygwalker
