@@ -1,6 +1,6 @@
 # TableauxBordsDescriptif
-description des outils de tableaux de bords.
 
+description des outils de tableaux de bords.
 
 Mathilde : shiny
 Zoé : Redash
@@ -11,6 +11,35 @@ Léonie : carnets jupyter
 Romane : Tensorflow
 Clément : GWalkR
 Maxence : PyGWalker
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Maxence : PyGWalker
+
+
+
+
+
+Shiny est un framework pour créer des app web directement en Python, sans écrire de HTML/CSS/JS.
+
+Un framework est :
+un ensemble d’outils et de règles qui aide à créer une application plus facilement, sans repartir de zéro.
+Il fournit : une structure, des composants prêts à l’emploi, une façon standard de travailler
+Sans framework : on doit gérer nous mêmes le site web, les boutons, l’affichage, les mises à jour…
+
+Avec un framework :
+
+tu utilises des briques déjà faites (boutons, tableaux, graphiques)
+
+tu te concentres sur la logique (calculs, données)
+=======
 Adam : SparkApache
 Maxence : PyGWalker
 Elliott : Flask
+>>>>>>> 9a9e1e8f665839e14cfaab97cbafa9c6db480e66
+>>>>>>> 4fa9b91694aa20d12cf5b4324fa76fd1ac0dc262
+=======
+Adam : SparkApache
+Maxence : PyGWalker
+Elliott : Flask
+>>>>>>> 8d70e2789ede46ffd95de60dce07ea9cb21dada5
