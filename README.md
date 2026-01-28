@@ -10,6 +10,7 @@ Nathan : RapidMiner
 Léonie : carnets jupyter
 Romane : Tensorflow
 Clément : GWalkR
+<<<<<<< HEAD
 Maxence : PyGWalker
 
 
@@ -28,3 +29,8 @@ Avec un framework :
 tu utilises des briques déjà faites (boutons, tableaux, graphiques)
 
 tu te concentres sur la logique (calculs, données)
+=======
+Adam : SparkApache
+Maxence : PyGWalker
+Elliott : Flask
+>>>>>>> 9a9e1e8f665839e14cfaab97cbafa9c6db480e66
