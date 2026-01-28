@@ -10,3 +10,4 @@ Nathan : RapidMiner
 Léonie : carnets jupyter
 Romane : Tensorflow
 Clément : GWalkR
+Maxence : PyGWalker
