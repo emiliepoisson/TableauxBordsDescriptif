@@ -10,3 +10,9 @@ Nathan : RapidMiner
 Léonie : carnets jupyter
 Romane : Tensorflow
 Clément : GWalkR
+
+
+
+
+SHINY : 
+Shiny est un framework pour créer des applications web interactives directement en Python, sans écrire de HTML/CSS/JS (ou très peu).
