@@ -10,8 +10,8 @@ Nathan : RapidMiner
 Léonie : carnets jupyter
 Romane : Tensorflow
 Clément : GWalkR
-<<<<<<< HEAD
 Maxence : PyGWalker
+<<<<<<< HEAD
 
 
 <<<<<<< HEAD
@@ -33,7 +33,8 @@ tu utilises des briques déjà faites (boutons, tableaux, graphiques)
 tu te concentres sur la logique (calculs, données)
 >>>>>>> a1553fd3b9e93a5ab82a64d443c891829a92cd29
 =======
+=======
+>>>>>>> 8d70e2789ede46ffd95de60dce07ea9cb21dada5
 Adam : SparkApache
 Maxence : PyGWalker
 Elliott : Flask
->>>>>>> 9a9e1e8f665839e14cfaab97cbafa9c6db480e66
