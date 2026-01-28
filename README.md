@@ -10,8 +10,8 @@ Nathan : RapidMiner
 Léonie : carnets jupyter
 Romane : Tensorflow
 Clément : GWalkR
-<<<<<<< HEAD
 Maxence : PyGWalker
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 Maxence : PyGWalker
@@ -38,3 +38,8 @@ Maxence : PyGWalker
 Elliott : Flask
 >>>>>>> 9a9e1e8f665839e14cfaab97cbafa9c6db480e66
 >>>>>>> 4fa9b91694aa20d12cf5b4324fa76fd1ac0dc262
+=======
+Adam : SparkApache
+Maxence : PyGWalker
+Elliott : Flask
+>>>>>>> 8d70e2789ede46ffd95de60dce07ea9cb21dada5

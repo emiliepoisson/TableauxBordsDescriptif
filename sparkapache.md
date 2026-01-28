@@ -1,1 +1,2 @@
-Spark est un Framework Open Source
+Spark (ou Apache Spark) est un framework open source de calcul distribué. 
+Il s'agit d'un ensemble d'outils et de composants logiciels structurés selon une architecture définie. Développé à l'université de Californie à Berkeley par AMPLab, Spark est aujourd'hui un projet de la fondation Apache. Ce produit est un cadre applicatif de traitements des mégadonnées (big data) pour effectuer des analyses complexes à grande échelle.
