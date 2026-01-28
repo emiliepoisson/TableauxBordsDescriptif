@@ -1,0 +1,2 @@
+GWalkR – Tableaux de bord
+Les outils de tableaux de bord GWalkR permettent de visualiser, analyser et piloter vos données en temps réel. Grâce à des graphiques interactifs, des indicateurs clés personnalisables et une navigation intuitive, GWalkR transforme les données brutes en insights clairs pour faciliter la prise de décision et le suivi de la performance.
