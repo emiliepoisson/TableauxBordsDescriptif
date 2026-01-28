@@ -8,3 +8,4 @@ Julien : Power Bi
 Ayden : Matlab
 Nathan : RapidMiner
 Léonie : carnets jupyter
+Romane : Tensorflow
