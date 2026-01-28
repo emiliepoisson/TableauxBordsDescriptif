@@ -9,3 +9,5 @@ et même des requêtes en langage naturel.
 Installer PyGWalker :
     pip = pip install pygwalker runcell
     Conda - forge = conda install -c conda-forge pygwalker OU mamba install -c conda-forge pygwalker
+
+Utiliser pygwalker dans Jupyter Notebook :
