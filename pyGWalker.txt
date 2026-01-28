@@ -6,13 +6,8 @@ Graphic Walker". Il intègre Jupyter Notebook avec Graphic Walker, une alternati
 Cela permet aux data scientists de visualiser / nettoyer / annoter les données avec des opérations simples de glisser-déposer 
 et même des requêtes en langage naturel.
 
-# Installer PyGWalker :
+Installer PyGWalker :
     pip = pip install pygwalker runcell
     Conda - forge = conda install -c conda-forge pygwalker OU mamba install -c conda-forge pygwalker
 
-# Utiliser pygwalker dans Jupyter Notebook :
-    ## Démarrage rapide
-        Importez pygwalker et pandas dans votre Jupyter Notebook pour commencer.
-        ====================
-        import pandas as pd
-        import pygwalker as pyg
+Utiliser pygwalker dans Jupyter Notebook :

@@ -1,6 +1,6 @@
 # TableauxBordsDescriptif
-description des outils de tableaux de bords.
 
+description des outils de tableaux de bords.
 
 Mathilde : shiny
 Zoé : Redash
@@ -11,6 +11,7 @@ Léonie : carnets jupyter
 Romane : Tensorflow
 Clément : GWalkR
 Maxence : PyGWalker
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 
@@ -35,6 +36,10 @@ tu te concentres sur la logique (calculs, données)
 =======
 =======
 >>>>>>> 8d70e2789ede46ffd95de60dce07ea9cb21dada5
+=======
+=======
+>>>>>>> 8d9d76c0862873c37cf40d7738a10c258707acc6
 Adam : SparkApache
 Maxence : PyGWalker
 Elliott : Flask
+>>>>>>> f54b71f578f27d4d190a3bcb6c2f2e1a6fab56a6
