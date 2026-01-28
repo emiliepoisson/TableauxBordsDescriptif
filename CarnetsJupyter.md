@@ -11,9 +11,6 @@ Léonie : carnets jupyter
 Romane : Tensorflow
 Clément : GWalkR
 Maxence : PyGWalker
-<<<<<<< HEAD
-=======
-Adam : SparkApache
-Maxence : PyGWalker
-Elliott : Flask
->>>>>>> f54b71f578f27d4d190a3bcb6c2f2e1a6fab56a6
+
+Les Carnets Jupyter :
+un environnement dans lequel il est possible de combiner le code informatique et le texte en langage naturel.
